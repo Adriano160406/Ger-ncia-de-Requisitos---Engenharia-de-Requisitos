@@ -1,1 +1,1 @@
-# Ger-ncia-de-Requisitos---Engenharia-de-Requisitos
+# Gerência-de-Requisitos---Engenharia-de-Requisitos
