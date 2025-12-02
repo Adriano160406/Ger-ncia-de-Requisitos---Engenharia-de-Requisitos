@@ -1,4 +1,4 @@
-# Gerência-de-Requisitos---Engenharia-de-Requisitos
+# Gerencia-de-Requisitos---Engenharia-de-Requisitos
 
 # Sistema de Gestão de Academia - Especificação de Requisitos
 
